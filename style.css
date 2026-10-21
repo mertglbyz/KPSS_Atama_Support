@@ -1,0 +1,10 @@
+:root { color-scheme: light; }
+body { margin: 0; background: #f4f7f8; color: #102a32; font: 17px/1.6 Georgia, "Times New Roman", serif; }
+main { max-width: 42rem; margin: 0 auto; padding: 3rem 1.25rem 4rem; }
+a { color: #1a4a57; }
+.kicker { letter-spacing: 0.18em; font: 600 12px/1.4 system-ui, sans-serif; color: #1a4a57; }
+h1 { font-size: 2rem; line-height: 1.2; margin: 0.2rem 0 1rem; }
+h2 { font: 600 1.15rem/1.4 system-ui, sans-serif; margin: 2rem 0 0.4rem; }
+p, li { margin: 0.4rem 0; }
+ul { padding-left: 1.2rem; }
+.meta { font: 14px/1.5 system-ui, sans-serif; color: #5e6e76; }
